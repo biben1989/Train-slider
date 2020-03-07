@@ -6,8 +6,8 @@ owl.owlCarousel({
     autoWidth: false,
     items: 1,
     nav: true,
-    mouseDrag:false,
-    touchDrag:false,
+//    mouseDrag:false,
+  //  touchDrag:false,
 
     margin: 10,
 
