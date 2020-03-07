@@ -7,6 +7,8 @@ owl.owlCarousel({
     items: 1,
     nav: true,
     mouseDrag:false,
+    touchDrag:false,
+
     margin: 10,
 
     fluidSpeed: 100,
